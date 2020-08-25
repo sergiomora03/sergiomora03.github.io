@@ -4,7 +4,49 @@
   
   <url>
     <loc>https://sergiomora03.github.io/tags/analytics/</loc>
-    <lastmod>2020-08-16T11:15:58-04:00</lastmod>
+    <lastmod>2020-08-25T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sergiomora03.github.io/tags/banner/</loc>
+    <lastmod>2020-08-25T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sergiomora03.github.io/post/bannerquery/</loc>
+    <lastmod>2020-08-25T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sergiomora03.github.io/tags/ellucian/</loc>
+    <lastmod>2020-08-25T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sergiomora03.github.io/tags/pypi/</loc>
+    <lastmod>2020-08-25T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sergiomora03.github.io/</loc>
+    <lastmod>2020-08-25T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sergiomora03.github.io/tags/</loc>
+    <lastmod>2020-08-25T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -18,20 +60,6 @@
   
   <url>
     <loc>https://sergiomora03.github.io/tags/mixture-mixed-models/</loc>
-    <lastmod>2020-08-16T11:15:58-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://sergiomora03.github.io/</loc>
-    <lastmod>2020-08-16T11:15:58-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://sergiomora03.github.io/tags/</loc>
     <lastmod>2020-08-16T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
