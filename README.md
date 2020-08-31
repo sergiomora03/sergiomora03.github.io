@@ -20,8 +20,5 @@ I know a joke with Python, but I don´t think this is the right the environment.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiomora03&show_icons=true&include_all_commits=true" alt="sergio's github stats" />
 </a>
 <a href="https://github.com/sergiomora03/sergiomora03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomora03" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomora03&layout=compact" />
 </a>
-</br>
-</br>
-<a href="https://www.buymeacoffee.com/sergiomorapardo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 25px;width: 100px;" ></a>
