@@ -34,5 +34,6 @@ I know a joke with Python, but I don´t think this is the right the environment.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sergiomora03&repo=sergiomora03.github.io" />
 </a>
 
-
-<a href="https://www.buymeacoffee.com/sergiomorapardo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 100px !important;" ></a>
+</br>
+</br>
+<a href="https://www.buymeacoffee.com/sergiomorapardo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 100px !important;" ></a>
