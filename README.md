@@ -20,20 +20,8 @@ I know a joke with Python, but I don´t think this is the right the environment.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiomora03&show_icons=true&include_all_commits=true" alt="sergio's github stats" />
 </a>
 <a href="https://github.com/sergiomora03/sergiomora03">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomora03&layout=compact&theme=radical" /> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomora03&layout=compact" />
 </a>
-
-<a href="https://github.com/sergiomora03/BannerQuery">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sergiomora03&repo=BannerQuery" />
-</a>    
-<a href="https://github.com/sergiomora03/sergiomora03.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sergiomora03&repo=sergiomora03.github.io" />
-</a>
-
 </br>
 </br>
-<a href="https://www.buymeacoffee.com/sergiomorapardo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 100px !important;" ></a>
+<a href="https://www.buymeacoffee.com/sergiomorapardo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 25px;width: 100px;" ></a>
